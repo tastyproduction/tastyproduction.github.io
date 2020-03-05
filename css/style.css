@@ -1,11 +1,14 @@
 @font-face {
-  font-family: "Lemon";
-  src: url("../fonts/Lemon\ Juice.otf");
+  font-family: Lemon;
+  src: url("../fonts/Lemon_Juice.otf");
   font-weight: normal;
   font-style: normal;
 }
 .font-lemon{
-  font-family: "Lemon";
+  font-family: Lemon !important;
+  font-size: 70px !important;
+  letter-spacing: 2.5px;
+  font-weight: 550 !important;
  }
 /* Base */
 html {
